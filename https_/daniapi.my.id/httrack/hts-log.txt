@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Fri, 02 Jun 2023 02:33:13 at https://daniapi.my.id/ none none
+(winhttrack https://daniapi.my.id/ -W -O "https://daniapi.my.id/httrack" -P none:8080 -%v none none )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:33:44	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/robots.txt (from primary/primary)
+02:33:44	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link none/ (from primary/primary)
+02:34:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link none/ (from primary/primary)
+02:35:00	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 0 seconds : 114 links scanned, 109 files written (22580808 bytes overall) [22631147 bytes received at 188592 bytes/sec]
+(2 errors, 2 warnings, 0 messages)
